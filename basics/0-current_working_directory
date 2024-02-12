@@ -1,2 +1,2 @@
 #!/bin/bash
-timeout 30 bash -c ./0-current_working_directory
+echo "pwd"
