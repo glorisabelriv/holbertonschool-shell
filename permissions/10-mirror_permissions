@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 110 110 100 olleh > hello
+chmod -rw-rw-r-- olleh > hello
