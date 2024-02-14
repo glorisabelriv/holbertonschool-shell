@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -c > iacta
+find - iacta
