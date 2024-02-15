@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((`tr -dc : <<<"$PATH" | wc -c`+1))
+'export PATH=/bin::::/home:/usr:::::/home/me ; echo $PATH | tr : $'"'"''"'"''"'"''"'"''"'"''"'"' | grep / | wc -l'
