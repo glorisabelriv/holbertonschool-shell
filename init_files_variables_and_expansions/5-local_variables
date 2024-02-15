@@ -1,2 +1,2 @@
 #!/bin/bash
-diff
+diff set built-in | grep "<" 
